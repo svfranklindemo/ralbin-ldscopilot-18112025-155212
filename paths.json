@@ -1,7 +1,19 @@
 {
-  "mappings": [
-    "/content/pbakliwal/eds-crosswalk-source/:/",
-    "/content/pbakliwal/eds-crosswalk-source/metadata.json:/metadata.json",
-    "/content/pbakliwal/eds-crosswalk-source/redirects.json:/redirects.json"
-  ]
+    "mappings": [
+      "/content/ralbin/b51ee358-cbba-4cab-93d9-445fea030f1e/:/",
+      "/content/ralbin/b51ee358-cbba-4cab-93d9-445fea030f1e/configuration:/.helix/config.json",
+      "/content/ralbin/b51ee358-cbba-4cab-93d9-445fea030f1e/metadata:/metadata.json",
+      "/content/ralbin/b51ee358-cbba-4cab-93d9-445fea030f1e/configs:/configs.json",
+      "/content/ralbin/b51ee358-cbba-4cab-93d9-445fea030f1e/configs-stage:/configs-stage.json",
+      "/content/ralbin/b51ee358-cbba-4cab-93d9-445fea030f1e/configs-dev:/configs-dev.json",
+      "/content/ralbin/b51ee358-cbba-4cab-93d9-445fea030f1e/redirects:/redirects.json",
+      "/content/ralbin/b51ee358-cbba-4cab-93d9-445fea030f1e/placeholders:/placeholders.json",
+      "/content/ralbin/b51ee358-cbba-4cab-93d9-445fea030f1e/products/recommended-products:/products/recommended-products.json",
+      "/content/ralbin/b51ee358-cbba-4cab-93d9-445fea030f1e/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/ralbin/b51ee358-cbba-4cab-93d9-445fea030f1e/images/products/:/images/products/"
+    ],
+    "includes": [
+      "/content/ralbin/b51ee358-cbba-4cab-93d9-445fea030f1e",
+      "/content/dam/citisignal/images/products/"
+    ]
 }
